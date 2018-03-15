@@ -10,4 +10,6 @@ namespace RealEstateFinal.Models
     public class ApplicationUser : IdentityUser
     {
     }
+
+   
 }
